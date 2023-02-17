@@ -1,0 +1,17 @@
+IMAGE:
+  WIDTH: 640
+  HEIGHT: 480
+  CALIBRATION_MODE: 1
+
+TOPIC:
+  SUB_IMAGE_NAME: /usb_cam/image_raw/
+  SUB_YOLO_NAME: /yolov3_trt_ros/detections/
+  SUB_LIDAR_NAME: /scan/
+  QUEUE_SIZE: 1
+
+YOLO:
+  WIDTH: 608
+  HEIGHT: 608
+  OBJECT_WIDTH: 0.195
+  
+DEBUG: True
