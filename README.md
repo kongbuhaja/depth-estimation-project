@@ -1,6 +1,6 @@
 # Depth Estimation Project - YouOnlyLiveOnce
 
-## 프로젝트 설명
+## Project Description
 - 탁구공 거리 추정 프로젝트 
   - xycar에 장착된 usb-cam을 사용하여 탁구공을 검출한 뒤, 거리를 추정
 - 교통 표지판 거리 추정 프로젝트
@@ -8,7 +8,10 @@
   - 또한, 2D-LiDAR를 사용하여 카메라와 Sensor Fusion을 진행한 뒤, 보다 정확한 거리 추정
   
 ## Team Introduction
-- 팀원 및 역할 소개
+- 안현석: 
+- 장명근: 
+- 진창용: 
+- 형승호: 
 
 ## Object Detection
 - 객체 인식을 위한 적용 모델
