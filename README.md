@@ -6,7 +6,8 @@
 - 교통 표지판 거리 추정 프로젝트
   - xycar에 장착된 usb-cam을 사용하여 교통 표지판을 검출한 뒤, 거리를 추정
   - 또한, 2D-LiDAR를 사용하여 카메라와 Sensor Fusion을 진행한 뒤, 보다 정확한 거리 추정
-  
+
+# 탁구공 거리 추정 프로젝트
 ## Team Introduction
 - 안현석: 
 - 장명근: 
@@ -24,6 +25,8 @@
 - Camera/LiDAR Calibration 방법
 - Calibration Result
 - 객체의 위치(거리) 추정 방법
+- 
+# 교통 표지판 거리 추정 프로젝트
 
 ## Lesson Learn (정답은 없습니다. 자유롭게 생각해보세요.)
 - Camera 기반의 거리추정 방법의 장/단점
