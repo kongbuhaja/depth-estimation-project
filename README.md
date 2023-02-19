@@ -80,7 +80,7 @@
 
 - Camera, LiDAR의 관측된 objects matching
   - 카메라와 라이다에서 각각 측정된 object간 매칭은, 거리를 기반으로 하여 가장 가까운 object를 같은 obejct로 인식.
-  - 아래 사진은 objects matching을 한 결과로, 빨간색은 정지, 노란색은 우회전, 파란색은 좌회전의 ID를 의미한다.
+  - 아래 사진은 objects matching을 한 결과로, 빨간색은 정지, 노란색은 우회전, 파란색은 좌회전, 초록색은 횡단보도의 ID를 의미한다.
   
 ![image](https://user-images.githubusercontent.com/42567320/219882969-57cedd19-8c90-49f1-9346-fc4a59d6d265.png)
 
