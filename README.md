@@ -30,6 +30,7 @@
 - 카메라의 특성에 맞게 OpenCV의 Fisheye 모델을 적용
 - https://docs.opencv.org/3.4/db/d58/group__calib3d__fisheye.html 
 - checkerboard를 사용하여 코너 검출 결과
+
 ![checkerboard](https://github.com/prgrms-ad-devcourse/ad-4-depth-estimation-project/blob/YouOnlyLiveOnce_team5/Result%20Image/checkerboard.PNG)
 
 ![00976](https://user-images.githubusercontent.com/42567320/219881428-1b60e353-2e60-4224-bd56-9c68769eb4af.png)
