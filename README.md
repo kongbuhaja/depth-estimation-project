@@ -33,7 +33,7 @@
 
 ![checkerboard](https://github.com/prgrms-ad-devcourse/ad-4-depth-estimation-project/blob/YouOnlyLiveOnce_team5/Result%20Image/checkerboard.PNG)
 
-![https://github.com/prgrms-ad-devcourse/ad-4-depth-estimation-project/blob/YouOnlyLiveOnce_team5/Result%20Image/Calibration%20result.PNG
+![Calibration Result](https://github.com/prgrms-ad-devcourse/ad-4-depth-estimation-project/blob/YouOnlyLiveOnce_team5/Result%20Image/Calibration%20result.PNG)
 
 
 
