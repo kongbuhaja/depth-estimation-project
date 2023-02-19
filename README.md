@@ -25,10 +25,13 @@
 ![1_0](https://user-images.githubusercontent.com/42567320/219880868-3bb3e545-4934-45b9-9dc2-392bfb81a366.png)
 
 ## Camera Calibration
-- chessboard를 활용한 Intrinsic matrix, distCoeffs 추출
+- checkerboard를 활용한 Intrinsic matrix, distCoeffs 추출
 - 추출한 Intrinsic matrix, distCoeffs 기반 camera calibration 실행
 - 카메라의 특성에 맞게 OpenCV의 Fisheye 모델을 적용
 - https://docs.opencv.org/3.4/db/d58/group__calib3d__fisheye.html 
+- checkerboard를 사용하여 코너 검출 결과
+![checkerboard](https://github.com/prgrms-ad-devcourse/ad-4-depth-estimation-project/blob/YouOnlyLiveOnce_team5/Result%20Image/checkerboard.PNG)
+
 ![00976](https://user-images.githubusercontent.com/42567320/219881428-1b60e353-2e60-4224-bd56-9c68769eb4af.png)
 ![00976](https://user-images.githubusercontent.com/42567320/219881512-44cc4872-7b92-49f0-bc29-93011ea0f0bc.png)
 ![00978](https://user-images.githubusercontent.com/42567320/219881429-527f4afd-5c7a-4f3a-b108-d38dee98a269.png)
