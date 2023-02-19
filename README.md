@@ -75,10 +75,13 @@
   - 측정된 LiDAR 데이터를 DBSCAN 기법을 사용하여 Object Clustering을 진행
   - 아래의 사진은 Clustering된 데이터들의 평균 x와 평균 y값을 출력한 것임.
   - 아래 사진에서 한 칸의 크기는 45cm로 표시하였음.
+  
 ![image](https://user-images.githubusercontent.com/42567320/219882988-df0574ee-e68a-4c99-ad8a-0abc136b5fb0.png)
 
 - Camera, LiDAR의 관측된 objects matching
-  - object간 x,y를 기반으로 SSE를 통한 거리로 가장 가까운 object간 매칭  
+  - 카메라와 라이다에서 각각 측정된 object간 매칭은, 거리를 기반으로 하여 가장 가까운 object를 같은 obejct로 인식.
+  - 아래 사진은 objects matching을 한 결과로, 빨간색은 정지, 노란색은 우회전, 파란색은 좌회전의 ID를 의미한다.
+  
 ![image](https://user-images.githubusercontent.com/42567320/219882969-57cedd19-8c90-49f1-9346-fc4a59d6d265.png)
 
 
