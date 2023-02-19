@@ -10,7 +10,7 @@
 # 탁구공 거리 추정 프로젝트
 ## Team Introduction
 - 안현석: model 학습, camera calibration, depth 추정
-- 장명근: 
+- 장명근: ROS, C++ 적용
 - 진창용: data 수집 및 labeling, model 변환
 - 형승호: ROS, C++ 적용
 
@@ -50,7 +50,7 @@
 # 교통 표지판 거리 추정 프로젝트
 ## Team Introduction
 - 안현석: model 학습, camera calibration, camera 기반 depth 추정, Extrinsic calibration
-- 장명근: 
+- 장명근: ROS, C++ 적용
 - 진창용: data 수집 및 labeling, model 변환, lidar 기반 depth 추정, lidar points clustering
 - 형승호: Extrinsic calibration, lidar 및 camera objects matching, ROS, C++ 적용
 
