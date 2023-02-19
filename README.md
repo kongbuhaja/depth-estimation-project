@@ -33,10 +33,7 @@
 
 ![checkerboard](https://github.com/prgrms-ad-devcourse/ad-4-depth-estimation-project/blob/YouOnlyLiveOnce_team5/Result%20Image/checkerboard.PNG)
 
-![00976](https://user-images.githubusercontent.com/42567320/219881428-1b60e353-2e60-4224-bd56-9c68769eb4af.png)
-![00976](https://user-images.githubusercontent.com/42567320/219881512-44cc4872-7b92-49f0-bc29-93011ea0f0bc.png)
-![00978](https://user-images.githubusercontent.com/42567320/219881429-527f4afd-5c7a-4f3a-b108-d38dee98a269.png)
-![00978](https://user-images.githubusercontent.com/42567320/219881509-7e7ed96e-4bd6-41dd-ab3d-c2aa1e65575e.png)
+![https://github.com/prgrms-ad-devcourse/ad-4-depth-estimation-project/blob/YouOnlyLiveOnce_team5/Result%20Image/Calibration%20result.PNG
 
 
 
