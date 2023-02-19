@@ -74,7 +74,7 @@
   - 카메라와 비슷한 FOV를 가지기 위해 -90 ~ 90 구간을 ROI로 설정
   - 측정된 LiDAR 데이터를 DBSCAN 기법을 사용하여 Object Clustering을 진행
   - 아래의 사진은 Clustering된 데이터들의 평균 x와 평균 y값을 출력한 것임.
-  
+  - 아래 사진에서 한 칸의 크기는 45cm로 표시하였음.
 ![image](https://user-images.githubusercontent.com/42567320/219882988-df0574ee-e68a-4c99-ad8a-0abc136b5fb0.png)
 
 - Camera, LiDAR의 관측된 objects matching
